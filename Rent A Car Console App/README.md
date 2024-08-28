@@ -1,1 +1,1 @@
-düzenlenecek.
+Uygulama başlatıldığında hoşgeldin mesajı ile karşılar. Kiralamak istediği araç markasını seçerek o markaya ekli olan araçların listesini görür. Aracın marka, model, yıl, yakıt ve plaka bilgisini inceleyebilir. İstediği aracı seçerek kaç gün kiralamak istediğinin bilgisini girer. Daha sonra ek özellikler sayfası gelir ve buradan araç sigortası veya bebek koltuğu olarak iki eklenti ekleyebilir. Her bir seçenek aracın günlük kira ücretine eklenir. Araç bilgisi ve toplam fiyat tutarı ile birlikte bilgileri verir ve uygulama kapanır.
